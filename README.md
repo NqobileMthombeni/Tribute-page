@@ -1,5 +1,9 @@
 🎨 Vivienne Westwood Tribute Page
 
+
+![Uploading Screenshot 2024-09-18 at 09.51.45.png…]()
+
+
 This project is a tribute page I created as part of my Web Development Internship. It celebrates the iconic fashion designer Vivienne Westwood, highlighting her incredible influence on the fashion world and beyond. 🌍👗
 
 ✨ Overview
