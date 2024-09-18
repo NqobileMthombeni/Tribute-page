@@ -1,0 +1,97 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-image: url('/home/wethinkcode/vivianwestwood _tribute _page/40a5839c6b6b7561dec9541469b72418.jpg');
+
+    }
+
+
+header {
+    background-color: #333; 
+    color: #fff; 
+    padding: 20px;
+    text-align: center;
+}
+
+h1 {
+    margin: 0;
+    padding: 0;
+    color: #fff;
+}
+h2{
+    margin: 0;
+    padding: 0;
+    color:white
+}
+h3{
+    margin: 0;
+    padding: 0;
+    color:white
+}
+
+main {
+    padding: 20px;
+}
+
+section {
+    margin-bottom: 20px;
+}
+
+.image-container {
+    text-align: center;
+}
+
+img {
+    max-width: 600px; 
+    display: block;
+    margin: 0 auto; 
+}
+
+figcaption {
+    font-style: italic;
+    text-align: center;
+    margin-top: 10px; 
+}
+
+.biography p {
+    line-height: 1.5; 
+    font-family: Arial, sans-serif; 
+    color:whitesmoke; /
+}
+
+
+.video-gallery {
+    display: flex;  
+    flex-wrap: wrap; 
+    justify-content: space-between; 
+}
+
+.video-grid {
+    display: flex;
+    justify-content: center; 
+    align-items: center; 
+    flex-wrap: wrap; 
+}
+
+.video-grid video {
+    width: calc(50% - 20px);
+    margin: 10px; 
+}
+
+mark {
+    background-color: yellowgreen;
+    color: black;
+}
+
+.quotes {
+    background-color: palegoldenrod; 
+    padding: 10px;
+    border-radius: 5px; 
+  }
+  
+  .quotes li {
+    color: #333; 
+    font-weight: bold;
+    padding: 5px 0; 
+  }
